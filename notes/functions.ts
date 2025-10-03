@@ -11,7 +11,7 @@ const greet2 = (name: string, id:number):string => {
     return `Name: ${name}, id: ${id}`;
 }
 
-// /* Function Invocation: */
+// /* Function Invocation (Function Call): */
 
 // To execute a function, you simply invoke it by using its name fol lowed by parentheses.
 // You can provide arguments (actual values) for the parameters defined in the function declaration.
@@ -73,3 +73,8 @@ const findMaxValue = (num: number[]): number => {
 }
 
 console.log("Maximum  number in [-1,-2,-3,-4,-5] is ", findMaxValue([-1,-2,-3,-4,-5]));
+
+// /* Optional and Default Parameters: */
+
+// TypeScript allows you to define optional and default parameters in functions.
+// Optional parameters are denoted by appending a ? symbol after the parameter name, and default parameters are specified by providing a default value in the parameter declaration.
