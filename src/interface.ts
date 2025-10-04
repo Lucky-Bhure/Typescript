@@ -13,3 +13,5 @@ const myProfile: Profile = {
     age: 22,
     address: "Nagpur, Maharashtra"
 }
+
+console.log(myProfile);
