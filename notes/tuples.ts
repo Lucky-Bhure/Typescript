@@ -4,7 +4,7 @@
 
 // Real-life example of using tuples in TypeScript:
 
-// Let's consider a where you want to represent a person's basic information, including their name, age, and whether they have a driver's license. Using a tuple can be an appropriate choice because these three elements have a specific order and type.
+// Let's consider a scenario where you want to represent a person's basic information, including their name, age, and whether they have a driver's license. Using a tuple can be an appropriate choice because these three elements have a specific order and type.
 
 // Defining a tuple type for person information
 type PersonInfo = readonly [string, number, boolean];
