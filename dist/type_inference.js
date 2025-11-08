@@ -1,6 +1,5 @@
 "use strict";
 // /* Type Inference: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Type inference in TypeScript refers to the ability of the TypeScript compiler to automatically determine and assign types to variables, expressions, and function return values based on their usage and context in the code.
 let name = "Lucky";
 // todo 👉What are some best practices for using type inference in TypeScript?

@@ -1,6 +1,5 @@
 "use strict";
 // /* Array: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // An array is a data structure that stores a fixed-size collection of elements of the same type in contiguous memory locations. Elements are accessed by index, starting from 0. Arrays can store multiple values, but cannot expand once their size is declared.
 // Ways of Array Initilazation:
 // a) Using square brackets:

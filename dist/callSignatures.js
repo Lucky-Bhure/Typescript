@@ -1,6 +1,5 @@
 "use strict";
 // /* Call Signature: */
-Object.defineProperty(exports, "__esModule", { value: true });
 const student1 = {
     name: "Lucky Bhure",
     age: 22,

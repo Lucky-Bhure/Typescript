@@ -1,6 +1,5 @@
 "use strict";
 // /* Tuples: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Function to display person information
 const displayPersonDetails = (person) => {
     const [name, age, hasDrivingLicense] = person;

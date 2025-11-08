@@ -1,6 +1,5 @@
 "use strict";
 // /* Function Declaration: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // You can declare a function using the function keyword, fol lowed by the function name, a list of parameters enclosed in parentheses, and a return type. 
 // * The function body contains the code that Wi ZZ be executed when the function is called.
 function greet1(name, id) {

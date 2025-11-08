@@ -1,6 +1,5 @@
 "use strict";
 // /* String: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Any value under single or double quotations are treated as string.
 // Todo 👉 String Initialization:
 // Declare a variable message of type string and assign it the value "Hello Typescript!".

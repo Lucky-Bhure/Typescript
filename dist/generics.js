@@ -1,6 +1,5 @@
 "use strict";
 // /* Generics: */
-Object.defineProperty(exports, "__esModule", { value: true });
 // Generics allow to create reusable components or functions that can work with multiple data types.
 // Normal way to getting multiple types input with same function
 function inputAndReturn(value) {
