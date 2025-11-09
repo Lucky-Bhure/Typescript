@@ -1,4 +1,3 @@
-"use strict";
 // /* Union: */
 // Union types allow you to specify that a variable can hold values of multiple types. You use the | (pipe) symbol to define a union type.
 // *In TypeScript, when using a union type, it is essential to ensure that at least one of the types in the union includes all the required properties. Failure to do so will result in a type error during compilation.
@@ -42,6 +41,7 @@ const createUserProfile = (user, location) => {
 // call
 const myCompleteInfo = createUserProfile(user, myLocation);
 console.log(myCompleteInfo);
+export {};
 //todo Homework Question By Thapa Technical: Combine User and Account Data
 //todo You are building a user management system, and you have two TypeScript types:
 //? User: Represents basic user information, with the following properties:

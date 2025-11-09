@@ -1,4 +1,3 @@
-"use strict";
 //  /* Interface: */
 const myProfile = {
     name: 'Lucky Bhure',
@@ -6,3 +5,4 @@ const myProfile = {
     address: "Nagpur, Maharashtra"
 };
 console.log(myProfile);
+export {};

@@ -1,4 +1,3 @@
-"use strict";
 // /* Generics: */
 // Generics allow to create reusable components or functions that can work with multiple data types.
 // Normal way to getting multiple types input with same function
@@ -24,3 +23,4 @@ console.log(genricBooleanValue);
 function multiGenerics(a, b) {
     return a;
 }
+export {};

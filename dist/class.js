@@ -1,6 +1,4 @@
-"use strict";
-// /* Class */
-Object.defineProperty(exports, "__esModule", { value: true });
+// /* Class: */
 // A class in terms of OOP is a blueprint for creating objects
 // A class is like a blueprint for creating similar things.
 // In TypeScript, there is a convention to use PascalCase (also known as UpperCamelCase) for class names. This means that class names should start with also begin with a capital letter and subsequent word in the class name should also begin with a capital letter.
@@ -18,3 +16,4 @@ class Persons {
 const persons1 = new Persons("Lucky Bhure", 19, ["Coding", "Gaming"]);
 const persons2 = new Persons("Sahil Bhure", 22, ["Sketching", "Reading"]);
 console.log("Details: ", persons1);
+export {};

@@ -1,4 +1,3 @@
-"use strict";
 // /* Function Declaration: */
 // You can declare a function using the function keyword, fol lowed by the function name, a list of parameters enclosed in parentheses, and a return type. 
 // * The function body contains the code that Wi ZZ be executed when the function is called.
@@ -46,6 +45,7 @@ const findMaxValue = (num) => {
     return maxNum;
 };
 console.log("Maximum  number in [-1,-2,-3,-4,-5] is ", findMaxValue([-1, -2, -3, -4, -5]));
+export {};
 // /* Optional and Default Parameters: */
 // TypeScript allows you to define optional and default parameters in functions.
 // Optional parameters are denoted by appending a ? symbol after the parameter name, and default parameters are specified by providing a default value in the parameter declaration.

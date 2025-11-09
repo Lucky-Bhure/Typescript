@@ -1,4 +1,3 @@
-"use strict";
 // /* String: */
 // Any value under single or double quotations are treated as string.
 // Todo 👉 String Initialization:
@@ -110,3 +109,4 @@ else if (typeof valueUnknown === "boolean") {
     valueUnknown = false;
     console.log("Value of Unknown: ", valueUnknown);
 }
+export {};

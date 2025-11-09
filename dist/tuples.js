@@ -1,4 +1,3 @@
-"use strict";
 // /* Tuples: */
 // Function to display person information
 const displayPersonDetails = (person) => {
@@ -16,6 +15,7 @@ const displayProductDetails = (product) => {
 };
 const product1 = ["Milk", 30, 3];
 console.log("First Product: ", displayProductDetails(product1));
+export {};
 //! Question 2:
 // You are creating a student management system and want to keep track of student grades for different subjects. Define a tuple type called SubjectGrade to represent a subject and its corresponding grade, containing the following elements:
 // Subject name (string)

@@ -1,4 +1,4 @@
-// /* Class */
+// /* Class: */
 
 // A class in terms of OOP is a blueprint for creating objects
 // A class is like a blueprint for creating similar things.

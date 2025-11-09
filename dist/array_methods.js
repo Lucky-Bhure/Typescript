@@ -1,4 +1,3 @@
-"use strict";
 // /* Array: */
 // An array is a data structure that stores a fixed-size collection of elements of the same type in contiguous memory locations. Elements are accessed by index, starting from 0. Arrays can store multiple values, but cannot expand once their size is declared.
 // Ways of Array Initilazation:
@@ -60,3 +59,4 @@ console.log(evenNumber);
 console.log("Number greater than 3: ");
 const greaterNumber = numberArray.filter((currVal) => currVal > 3);
 console.log(greaterNumber);
+export {};

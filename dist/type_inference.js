@@ -1,4 +1,3 @@
-"use strict";
 // /* Type Inference: */
 // Type inference in TypeScript refers to the ability of the TypeScript compiler to automatically determine and assign types to variables, expressions, and function return values based on their usage and context in the code.
 let name = "Lucky";
@@ -16,3 +15,4 @@ let strInfer = "Hello, TypeScript!"; // The compiler infers the type string for 
 const calculateArea = (length, width) => {
     return length * width;
 }; // The compiler infers the type number for the function calculateArea
+export {};
